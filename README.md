@@ -85,7 +85,8 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![
+![<img width="894" height="511" alt="image" src="https://github.com/user-attachments/assets/2e084997-3b5e-40de-bb6d-3c5ec7bb378f" />
+
 
 
 
